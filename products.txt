@@ -1,0 +1,4 @@
+Pencil,0.45
+Stapler,2.5
+Notebook,1.0
+Pen,0.25
